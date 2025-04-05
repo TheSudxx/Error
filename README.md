@@ -15,8 +15,6 @@ A simple and clean custom 404 error page built with HTML, CSS, and Bootstrap.
 
 [View it on GitHub Pages](https://TheSudxx.github.io/error/)
 
-> Replace `yourusername` with your actual GitHub username.
-
 ## How to Use
 
 1. Clone or download this repository.
