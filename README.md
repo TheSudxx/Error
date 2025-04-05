@@ -13,7 +13,7 @@ A simple and clean custom 404 error page built with HTML, CSS, and Bootstrap.
 
 ## Live Demo
 
-[View it on GitHub Pages](https://TheSudxx.github.io/error/)
+[View it on GitHub Pages](https://thesudxx.github.io/Error/)
 
 ## How to Use
 
