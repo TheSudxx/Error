@@ -1,5 +1,3 @@
-# Error
-Error Code : 404
 # 404 Error Page
 
 A simple and clean custom 404 error page built with HTML, CSS, and Bootstrap.
@@ -15,7 +13,7 @@ A simple and clean custom 404 error page built with HTML, CSS, and Bootstrap.
 
 ## Live Demo
 
-[View it on GitHub Pages](https://yourusername.github.io/404-page/)
+[View it on GitHub Pages](https://TheSudxx.github.io/error/)
 
 > Replace `yourusername` with your actual GitHub username.
 
